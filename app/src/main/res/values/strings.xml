@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UnitConverterApp</string>
+    <string-array name="units_array">
+        <!-- Length Units -->
+        <item>Inches</item>
+        <item>Centimeters</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <!-- Weight Units -->
+        <item>Pounds</item>
+        <item>Ounces</item>
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Tons</item>
+        <!-- Temperature Units -->
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
